@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`shape_actions drawFullShape Dispatches the correct action drawFullShape 1`] = `
+Array [
+  Object {
+    "shapeId": "1",
+    "type": "DRAW_FULL_SHAPE",
+  },
+]
+`;
+
+exports[`shape_actions drawSemiShape Dispatches the correct action drawSemiShape 1`] = `
+Array [
+  Object {
+    "shapeId": "1",
+    "type": "DRAW_SEMI_SHAPE",
+  },
+]
+`;
+
+exports[`shape_actions getShapesSuccess Dispatches the correct action getShapesSuccess 1`] = `
+Array [
+  Object {
+    "shapes": "shapes",
+    "type": "GET_SHAPES_SUCCESS",
+  },
+]
+`;
+
+exports[`shape_actions removeShape Dispatches the correct action removeShape 1`] = `
+Array [
+  Object {
+    "shapeId": "1",
+    "type": "REMOVE_SHAPE",
+  },
+]
+`;

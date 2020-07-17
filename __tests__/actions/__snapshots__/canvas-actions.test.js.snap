@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`canvas_actions getCanvasSuccess Dispatches the correct action 1`] = `
+Array [
+  Object {
+    "canvas": "canvas",
+    "type": "GET_CANVAS_SUCCESS",
+  },
+]
+`;

@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`canvas_actions loadCanvasLayout Dispatches the correct action loadCanvasLayout 1`] = `
+Array [
+  Object {
+    "title": "Demo Magic Canvas",
+    "type": "LOAD_CANVAS_LAYOUT",
+  },
+]
+`;

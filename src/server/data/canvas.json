@@ -1,0 +1,42 @@
+{
+    "main": {      
+      "top": 0,
+      "left": 0,
+      "width": "620px",
+      "height": "400px",
+      "fillStyle": "#4d73be"
+    },
+    "toolbar": {
+      "toolbarCanvas": {
+        "top": 15,
+        "left": 3,
+        "width": "80px",
+        "height": "230px",
+        "fillStyle": "#e7e6e6",
+        "strokeStyle": "#36528b"
+      },
+      "tools": [
+        {
+          "id": 1,
+          "name": "scissor",
+          "width": 33,
+          "height": 33,
+          "url": "images/scissor.png"
+        },
+        {
+          "id": 2,
+          "name": "eraser",
+          "width": 33,
+          "height": 33,
+          "url": "images/eraser.png"
+        },
+        {
+          "id": 3,
+          "name": "glue",
+          "width": 33,
+          "height": 33,
+          "url": "images/glue.png"
+        }
+      ]
+    }
+}

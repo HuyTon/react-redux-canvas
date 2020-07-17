@@ -1,0 +1,49 @@
+{
+    "shapes": [
+      {
+        "id": 1,
+        "name": "circle",
+        "x": 120,
+        "y": 120,
+        "r": 50,
+        "fillStyle": "#f6c143",   
+        "strokeStyle": "#36528b",     
+        "fullShape": true,
+        "active": false
+      },
+      {
+        "id": 2,
+        "name": "triangle",
+        "points": {
+          "a": {
+            "x": 400,
+            "y": 30
+          },
+          "b": {
+            "x": 320,
+            "y": 200
+          },
+          "c": {
+            "x": 480,
+            "y": 200
+          }
+        },
+        "fillStyle": "#7eaa55",   
+        "strokeStyle": "#36528b",     
+        "fullShape": true,
+        "active": false
+      },
+      {
+        "id": 3,
+        "name": "rectangle",
+        "x": 180,
+        "y": 260,
+        "width": 210,
+        "height": 80,
+        "fillStyle": "#df8244",   
+        "strokeStyle": "#36528b",     
+        "fullShape": true,
+        "active": false
+      }
+    ]
+}

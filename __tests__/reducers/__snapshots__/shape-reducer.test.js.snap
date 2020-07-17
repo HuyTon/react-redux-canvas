@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DRAW_FULL_SHAPE is correct 1`] = `
+Object {
+  "shapes": Object {
+    "shapes": Array [
+      Object {
+        "active": true,
+        "fullShape": true,
+      },
+    ],
+  },
+}
+`;
+
+exports[`DRAW_SEMI_SHAPE is correct 1`] = `
+Object {
+  "shapes": Object {
+    "shapes": Array [
+      Object {
+        "active": true,
+        "fullShape": false,
+      },
+    ],
+  },
+}
+`;
+
+exports[`GET_SHAPES_SUCCESS is correct 1`] = `
+Object {
+  "shapes": undefined,
+}
+`;
+
+exports[`REMOVE_SHAPE is correct 1`] = `
+Object {
+  "shapes": Object {
+    "shapes": Array [
+      Object {
+        "active": false,
+        "fullShape": false,
+      },
+    ],
+  },
+}
+`;
