@@ -1,5 +1,5 @@
 # react-redux-canvas
-Build a web application using React, Redux and Canvas API.
+A web application using React, Redux and Canvas API.
 
 # Features
 Given the canvas, user can draw 3 basic type of shapes: circle, rectangle and trigangle.
