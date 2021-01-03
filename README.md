@@ -1,7 +1,7 @@
 # react-redux-canvas
 Build a web application using React, Redux and Canvas API.
 
-# Requirements
+# Features
 Given the canvas, user can draw 3 basic type of shapes: circle, rectangle and trigangle.
 User can use the toolbar in the right handside panel:
 - Scissor: Drag the scissor icon into the shape, this will split the targeted shape into 2 pieces.
